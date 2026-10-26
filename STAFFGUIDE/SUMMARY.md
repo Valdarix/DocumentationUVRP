@@ -1,0 +1,32 @@
+# Table of contents
+
+* [Welcome to the Team!](README.md)
+
+## Content
+
+* [Purpose](content/purpose.md)
+* [PHRP Platforms](content/phrp-platforms.md)
+* [Etiquette](content/etiquette.md)
+* [Chain of Command](content/chain-of-command.md)
+* [Expectations & Duties](content/expectations-and-duties/README.md)
+  * [Specific Staff Duties](content/expectations-and-duties/specific-staff-duties/README.md)
+    * [Moderation and Spectating](content/expectations-and-duties/specific-staff-duties/moderation-and-spectating/README.md)
+      * [Trolling Discord](content/expectations-and-duties/specific-staff-duties/moderation-and-spectating/trolling-discord.md)
+    * [Handling Tickets](content/expectations-and-duties/specific-staff-duties/handling-tickets/README.md)
+      * [Harassment](content/expectations-and-duties/specific-staff-duties/handling-tickets/harassment.md)
+      * [Sexual Harassment](content/expectations-and-duties/specific-staff-duties/handling-tickets/sexual-harassment.md)
+      * [Staff Misconduct](content/expectations-and-duties/specific-staff-duties/handling-tickets/staff-misconduct.md)
+      * [Common Tickets](content/expectations-and-duties/specific-staff-duties/handling-tickets/common-tickets.md)
+    * [Setup a Business](content/expectations-and-duties/specific-staff-duties/setup-a-business/README.md)
+      * [Establishing a Business](content/expectations-and-duties/specific-staff-duties/setup-a-business/establishing-a-business.md)
+      * [Special Restaurants](content/expectations-and-duties/specific-staff-duties/setup-a-business/special-restaurants.md)
+  * [Liaison Duties](content/expectations-and-duties/liaison-duties/README.md)
+    * [Business](content/expectations-and-duties/liaison-duties/business.md)
+    * [Media](content/expectations-and-duties/liaison-duties/media.md)
+    * [Recruiting](content/expectations-and-duties/liaison-duties/recruiting.md)
+    * [Social Media](content/expectations-and-duties/liaison-duties/social-media.md)
+    * [Stream](content/expectations-and-duties/liaison-duties/stream.md)
+  * [Development and Quality Control](content/expectations-and-duties/development-and-quality-control.md)
+* [Discipline](content/discipline.md)
+* [Staff Meetings](content/staff-meetings/README.md)
+  * [Meeting Minutes](content/staff-meetings/meeting-minutes.md)
