@@ -1,0 +1,3 @@
+# Blood In/Blood Out
+
+Gang membership follows the “blood in/blood” out rule. Entering a gang fully exposes the member to the gang's rules and processes. It is up to the gang leadership to make clear what the terms are for leaving or being bled out. Members may be allowed to leave on good terms determined by the remaining gang members; however, if the character is found to violate the terms of release at any time after leaving then the gang may choose to retaliate. A bleed out will be subject to the gang’s processes in their by-laws. It is up to the gang to determine what their Blood In/Blood Out process is.&#x20;
